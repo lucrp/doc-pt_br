@@ -13,8 +13,8 @@
    <methodparam rep="repeat"  choice="opt"><type>mixed</type><parameter>...</parameter></methodparam>
   </methodsynopsis>
   <para>
-   Assim como <function>array</function>, não é exatamente uma função,
-   e sim uma construção da própria linguagem. <function>list</function> é usada
+   Assim como <function>array</function>, que não é exatamente uma função
+   e sim uma construção da própria linguagem, <function>list</function> é usada
    para criar uma lista de variáveis em apenas uma operação.
   </para>
  </refsect1>
